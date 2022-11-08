@@ -7,6 +7,7 @@ To classify the penguins species using Support Vector Machines
 
 # About SVM: 
 A support vector machine (SVM) is a supervised machine learning model that uses classification algorithms for two-group classification problems.
+But in our project we are using SVM for mutliclass classification.(three in our case)
 
 # About the dataset:
 The dataset contains different body measurements for three species of penguins from three islands in the Palmer Archipelago, Antarctica.<br>
